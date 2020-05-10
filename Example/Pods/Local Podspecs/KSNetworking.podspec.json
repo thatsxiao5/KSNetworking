@@ -1,0 +1,27 @@
+{
+  "name": "KSNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of KSNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/thatsxiao5/KSNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thatsxiao5": "thatsxiao5@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/thatsxiao5/KSNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KSNetworking/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3.1.0"
+    ]
+  }
+}

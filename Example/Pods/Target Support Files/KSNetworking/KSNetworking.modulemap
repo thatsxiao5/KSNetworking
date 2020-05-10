@@ -1,0 +1,6 @@
+framework module KSNetworking {
+  umbrella header "KSNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
